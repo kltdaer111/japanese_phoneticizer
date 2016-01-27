@@ -1,0 +1,78 @@
+  あ行 あ(a)  い(i)   う(u)   え(e)   お(o) 
+  か行 か(ka) き(ki)  く(ku)  け(ke)  こ(ko) 
+  さ行 さ(sa) し(shi) す(su) せ(se) そ(so) 
+  た行 た(ta) ち(chi) つ(tsu) て(te) と(to) 
+  な行 な(na) に(ni) ぬ(nu) ね(ne) の(no) 
+  は行 は(ha) ひ(hi) ふ(fu) へ(he) ほ(ho) 
+  ま行 ま(ma) み(mi) む(mu) め(me) も(mo) 
+  や行 や(ya)            ゆ(yu)            よ(yo) 
+  ら行 ら(ra) り(ri) る(ru) れ(re) ろ(ro) 
+  わ行 わ(wa)                            を(wo) 
+       ん(n) 
+————————————————————
+  
+2、浊音
+  あ段 い段 う段 え段 お段
+  か行 が(ga) ぎ(gi) ぐ(gu) げ(ge) ご(go) 
+  さ行 ざ(za) じ(zi) ず(zu) ぜ(ze) ぞ(zo) 
+  た行 だ(da) ぢ(di) づ(du) で(de) ど(do) 
+  は行 ば(ba) び(bi) ぶ(bu) べ(be) ぼ(bo) 
+————————————————————
+ 
+ 3、半浊音
+  あ段 い段 う段 え段 お段
+  は行 ぱ(pa) ぴ(pi) ぷ(pu) ぺ(pe) ぽ(po) 
+————————————————————
+  
+4、拗音表 
+  あ段 う段 お段 
+  か行 きゃ(kya) きゅ(kyu) きょ(kyo) 
+  が行 ぎゃ(gya) ぎゅ(gyu) ぎょ(gyo) 
+  さ行 しゃ(sya) しゅ(syu) しょ(syo) 
+  ざ行 じゃ(zya) じゅ(zyu) じょ(zyo) 
+  た行 ちゃ(tya) ちゅ(tyu) ちょ(tyo) 
+  だ行 ぢゃ(dya) ぢゅ(dyu) ぢょ(dyo) 
+  な行 にゃ(nya) にゅ(nyu) にょ(nyo) 
+  は行 ひゃ(hya) ひゅ(hyu) ひょ(hyo) 
+  ば行 びゃ(bya) びゅ(byu) びょ(byo) 
+  ぱ行 ぴゃ(pya) ぴゅ(pyu) ぴょ(pyo) 
+  ま行 みゃ(mya) みゅ(myu) みょ(myo) 
+  ら行 りゃ(rya) りゅ(ryu) りょ(ryo) 
+————————————————————
+片假名
+ア段 イ段 ウ段 エ段 オ段
+ア行 ア(a) イ(i) ウ(u) エ(e) オ(o)
+カ行 カ(ka) キ(ki) ク(ku) ケ(ke) コ(ko)
+サ行 サ(sa) シ(shi) ス(su) セ(se) ソ(so)
+タ行 タ(ta) チ(chi) ツ(tsu) テ(te) ト(to)
+ナ行 ナ(na) ニ(ni) ヌ(nu) ネ(ne) ノ(no)
+ハ行 ハ(ha) ヒ(hi) フ(fu) ヘ(he) ホ(ho)
+マ行 マ(ma) ミ(mi) ム(mu) メ(me) モ(mo)
+ヤ行 ヤ(ya) ユ(yu) ヨ(yo)
+ラ行 ラ(ra) リ(ri) ル(ru) レ(re) ロ(ro)
+ワ行 ワ(wa) ヲ(o)
+     ン(n)
+
+浊音
+
+カ行 ガ(ga) ギ(gi) グ(gu) ゲ(ge) ゴ(go)
+サ行 ザ(za) ジ(ji) ズ(zu) ゼ(ze) ゾ(zo)
+タ行 ダ(da) ヂ(ji) ヅ(zu) デ(de) ド(do)
+ハ行 バ(ba) ビ(bi) ブ(bu) ベ(be) ボ(bo)
+
+半浊音
+ハ行 パ(pa) ピ(pi) プ(pu) ペ(pe) ポ(po)
+
+ヤ段 ユ段 ヨ段
+カ行 キャ(kya) キュ(kyu) キョ(kyo)
+ガ行 ギャ(gya) ギュ(gyu) ギョ(gyo)
+サ行 シャ(sha) シュ(shu) ショ(sho)
+ザ行 ジャ(ja) ジュ(ju) ジョ(jo)
+タ行 チャ(cha) チュ(chu) チョ(cho)
+ダ行 ヂャ(ja) ヂュ(ju) ヂョ(jo)
+ナ行 ニャ(nya) ニュ(nyu) ニョ(nyo)
+ハ行 ヒャ(hya) ヒュ(hyu) ヒョ(hyo)
+バ行 ビャ(bya) ビュ(byu) ビョ(byo)
+パ行 ピャ(pya) ピュ(pyu) ピョ(pyo)
+マ行 ミャ(mya) ミュ(myu) ミョ(myo)
+ラ行 リャ(rya) リュ(ryu) リョ(ryo)
